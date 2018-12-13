@@ -1,0 +1,148 @@
+@media only screen and (min-width: 1024px){
+
+html,body{
+	margin:0;
+}
+	.container{
+		width: 100%;
+	}
+/*---------------------------------INICIO CABECALHO--------------------*/	
+	div#escuro {
+	 	height: 200px;
+	 	width: 1230px;
+
+	}
+	div#verde {
+		border: none;
+		width: 1230px;
+	}
+	div#carrosel{
+		width: 1230px;
+	}
+	div#cabecalho .minha_foto{
+		margin-left: 600px;
+		margin-top: 30px;
+		height: 230px;
+		width: 200px;
+		border-radius:50%;
+		width: 270px;
+		height: 280px;
+		overflow: hidden;
+		border:8px #ffffff solid;
+	}
+div#cabecalho h1 {
+	position: absolute;
+	padding-top: 150px;
+	margin-left: 100px;
+	font-size: 35px;
+	width: 100%;
+}
+/*------------------------------------INICIO CAROUSEL-----------------------*/
+div#quem-sou{
+	width: 500px;
+}
+
+div .p-2{
+	width: 500px;
+}
+div#fomacao{
+	width: 500px;
+}
+div .exp{
+	width: 500px;
+}
+div .exp2{
+	width: 500px;
+}
+div .exp .funcao{
+	color: #000;
+}
+/*------------------------------------FINAL CABECALHO------------------------*/
+#formacao{
+	height: 630px;
+
+}
+/*-----------------------------------INICIO HABILIDADES---------------------*/
+.habilidades {
+	background-color: #31363f;
+	width: 1230px;
+}
+
+div#skils.row{
+	width: 1200px;
+	background-color: #fff;
+}
+div#skils{
+	height: 510px;
+	background-color: #fff;
+}
+div#todo{
+	height: 750px;
+}
+div#primeiro{
+	position: absolute;
+	display: block;
+	margin-top: 100px;
+	height: 150px;
+	width: 780px;
+	margin-left: 130px;
+}
+div#segundo{
+	position: absolute;
+	margin-top: 150px;
+	height: 150px;
+	width: 780px;
+	margin-left: 0;	
+}
+div#primeiro .coluna{
+	margin: 0;
+
+}
+
+div#segundo .coluna{
+	margin: 0;
+	
+}
+
+div#segundo .skils-2{
+	position: absolute;
+	height: 150px;
+	display: block;
+	margin-left: -15px;
+}
+div#skils.container{
+	width: 1080px;
+}
+
+#dados .list-socials {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+/*------------------------------------INICIO DADOS---------------------*/
+div#dados{
+	margin-top: -20px;
+	width: 1230px;
+	}
+
+div#dados h2{
+	margin-left: 30px;
+}	
+div#dados hr{
+	margin-left: 30px;
+}
+div#dados address{
+	margin-left: 50px;
+}
+div#dados p{
+	margin-left: 50px;
+}
+#dados .list-socials {
+	margin-left: 60px;
+}
+/*------------------------------------FINAL DADOS----------------------*/
+
+/*-------------------------------------INICIO RODAPE-----------------------*/
+footer#rodape{
+	width: 1230px;
+	}
+}

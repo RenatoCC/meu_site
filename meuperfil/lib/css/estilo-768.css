@@ -1,0 +1,33 @@
+@media only screen and (min-width: 768px){
+
+
+div#escuro{
+	width: 770px;
+}
+div#verde{
+	width: 770px;
+}
+div#carrosel{
+	width: 780px;
+}
+#cabecalho .minha_foto {
+	margin-left:255px;
+		
+}
+header h1 {
+	margin-left: 190px;
+}
+.habilidades{
+	height: 730px;
+}
+div#primeiro {
+	width: 250px;
+	margin-left: 50px;
+}
+div#segundo{
+	position: absolute;
+	width: 250px;
+	margin-left: 250px;
+	margin-top: -450px;
+
+}

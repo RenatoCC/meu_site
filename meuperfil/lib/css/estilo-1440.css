@@ -1,0 +1,40 @@
+@media only screen and (min-width: 1440px){
+
+	div#carrosel{
+		margin-left: 0;
+		width: 100%;
+
+	}
+
+	div#cabecalho h1{
+		width: 500px;
+	}
+
+	div#escuro{
+		width: 100%;
+
+	}
+	div#escuro .row{
+		width: 100%;
+	}
+	div#verde{
+		width: 100%;
+	}
+	div#todo{
+		width: 100%;
+	}
+	
+	 .container{
+		width: 100%;
+	}
+	.habilidades{
+		height: 800px;
+		width: 100%;
+	}
+	div#dados{
+		width: 100%;
+	}
+	footer#rodape{
+		width: 100%;
+	}
+}
