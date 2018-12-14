@@ -9,6 +9,9 @@
 	div#cabecalho h1{
 		width: 500px;
 	}
+	div#cabecalho{
+		width: 2530px;
+	}
 
 	div#escuro{
 		width: 100%;
