@@ -5,8 +5,13 @@
 		width: 100%;
 
 	}
+	div#cabecalho .minha_foto{
+		margin-left: 800px;
+	}
+
 
 	div#cabecalho h1{
+		margin-left: 350px;
 		width: 500px;
 	}
 	div#cabecalho{
